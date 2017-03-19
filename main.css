@@ -1,0 +1,34 @@
+body {
+  font-family: monospace;
+  font-size: 1.5rem;
+  background-color: lightblue;
+}
+
+section, footer {
+  margin-left: 1.5rem;
+  margin-top: 2rem;
+}
+
+.resume_item {
+  margin-left: 1.5rem;
+}
+
+.resumePicture {
+  -webkit-filter: grayscale(50%); /* Safari */
+  filter: grayscale(50%);
+  border-radius: 50%;
+  border-color: grey;
+  border-width: thick;
+}
+
+footer ul {
+  list-style: none;
+}
+
+header {
+  text-align: center;
+}
+
+address {
+  font-style: normal;
+}
